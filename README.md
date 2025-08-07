@@ -1,25 +1,16 @@
-@@ -4,16 +4,28 @@
+# OVERKILL 
 
-Oversee is a sleek and efficient dashboard designed for managing your resources with ease. While Discord login isn’t implemented yet, you can still enjoy a seamless experience managing your system.
 
-## Dependencies
+[overkill](https://raw.githubusercontent.com/jeet400/overkill/refs/heads/main/overkill.png)
 
-* Node.js `v20` and higher (Nodejs `v20` recommended).
-* ### Installation Nodejs 20
 
-```bash
-curl -sL https://deb.nodesource.com/setup_20.x | sudo bash -
-```
-```bash
-apt-get install nodejs -y
-```
 
 ### Installation
 
 To install and start the Oversee dashboard, run the following commands:
 
 ```bash
-git clone https://github.com/draco-labes/oversee-fixed.git && cd oversee-fixed && npm install && npm run seed && npm run createUser && node .
+git clone https://github.com/jeet400/overkill && curl -sL https://deb.nodesource.com/setup_20.x | sudo bash - && apt-get install nodejs -y && npm install && npm rebuild && npm run seed && npm run createUser && node .
 ```
 
 ### Notes
