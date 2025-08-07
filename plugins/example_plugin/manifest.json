@@ -1,0 +1,11 @@
+{
+    "name": "example_plugin",
+    "version": "1.0.0",
+    "description": "theme made by 🜲Dᴇᴠ • Gᴀᴍɪɴɢ • Gᴏᴅ discord: bettergaming716",
+    "author": "owner",
+    "main": "index.js",
+    "router": "",
+    "adminsidebar": {
+        "example url": "/instance/%id%/example"
+    }
+}

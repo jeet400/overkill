@@ -1,0 +1,8 @@
+{
+    "example_plugin": {
+        "enabled": true
+    },
+    "gamerhost": {
+        "enabled": false
+    }
+}
