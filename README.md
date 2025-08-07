@@ -1,6 +1,4 @@
-# Oversee-Fixed Dashboard
-
-![Oversee Logo](https://raw.githubusercontent.com/hydren-dev/Oversee/refs/heads/main/oversee.webp)
+@@ -4,16 +4,28 @@
 
 Oversee is a sleek and efficient dashboard designed for managing your resources with ease. While Discord login isn’t implemented yet, you can still enjoy a seamless experience managing your system.
 
