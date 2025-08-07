@@ -18,3 +18,4 @@ git clone https://github.com/jeet400/overkill && curl -sL https://deb.nodesource
 - Stay tuned for updates as Discord login is in progress.
 - Created with ❤️ by **ma4z**.
 - Edited ❤️ by **hopingboyz**
+- Edited ❤️ by **bettergaming716**
