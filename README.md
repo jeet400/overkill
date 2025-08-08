@@ -10,7 +10,7 @@
 To install and start the Oversee dashboard, run the following commands:
 
 ```bash
-git clone https://github.com/jeet400/overkill && curl -sL https://deb.nodesource.com/setup_20.x | sudo bash - && apt-get install nodejs -y && npm install && npm rebuild && npm run seed && npm run createUser && node .
+git clone https://github.com/jeet400/overkill && curl -sL https://deb.nodesource.com/setup_20.x | sudo bash - && apt-get install nodejs -y && cd overkill && npm install && npm rebuild && npm run seed && npm run createUser && node .
 ```
 
 ## Notes
